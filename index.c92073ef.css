@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+.a, .b {
+  height: 300vh;
+}
+
+.a {
+  background-color: #191970;
+}
+
+.b {
+  background-color: #98fb98;
+}
+
+.c {
+  color: purple;
+  font-size: 100px;
+  position: absolute;
+}
+
+/*# sourceMappingURL=index.c92073ef.css.map */
